@@ -1,5 +1,3 @@
-### Haoyu
-
 😀Hi, there!
 
 ### About Me
