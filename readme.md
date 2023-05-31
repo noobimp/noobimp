@@ -1,5 +1,15 @@
-## 😀Hello, stranger. 
-I'm a master student @ University of Chinese Academy of Sciences, and Institute of Computing Technology of CAS.
+### Haoyu
+
+😀Hi, there!
+
+![](https://komarev.com/ghpvc/?username=noobimp&color=yellowgreen)
+
+### About Me
+
+I’m currently a master candidate at Data Intelligence System Research Center in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
+
+I have been an MLE intern at ByteDance for 6 months, participating in improving the performance of recommendation algorithms in TikTok.
+
 
 
 ![noobimp‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=noobimp&show_icons=true&theme=radical&count_private=true)
