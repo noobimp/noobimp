@@ -2,8 +2,6 @@
 
 😀Hi, there!
 
-![](https://komarev.com/ghpvc/?username=noobimp&color=yellowgreen)
-
 ### About Me
 
 I’m currently a master candidate at Data Intelligence System Research Center in [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](http://www.cas.ac.cn/).
