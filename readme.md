@@ -6,6 +6,10 @@ I’m currently a master candidate at Data Intelligence System Research Center i
 
 I have been an MLE intern at ByteDance for 6 months, participating in improving the performance of recommendation algorithms in TikTok.
 
+### ✨ My hobbies
+- 📸 Photography
+- 🖌️ Calligraphy (Chinese and English, writing brush and pen)
+- ⚽ Football, Badminton and so on
 
 
 ![noobimp‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=noobimp&show_icons=true&theme=radical&count_private=true)
